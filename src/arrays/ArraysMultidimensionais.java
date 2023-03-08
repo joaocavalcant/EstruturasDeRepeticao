@@ -21,5 +21,6 @@ public class ArraysMultidimensionais {
 			}
 			System.out.println("");
 		}
-	}
+		
+}
 }
